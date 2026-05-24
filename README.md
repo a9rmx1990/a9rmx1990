@@ -1,62 +1,53 @@
 <div align="center">
 
 <!-- ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Asmit%20Regmi&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Machine%20Learning%20Engineer%20%7C%20AI%20Researcher%20%7C%20LLM%20Architect&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Asmit%20Regmi&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Machine%20Learning%20%7C%20Deep%20Learning%20%7C%20Data%20Science%20%7C%20Statistics%20%7C%20LLMs&descAlignY=55&descSize=15" width="100%"/>
 
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Building+Intelligent+Systems+%F0%9F%A7%A0;Training+Neural+Networks+%F0%9F%94%A5;Crafting+LLM+Pipelines+%E2%9A%A1;Turning+Data+into+Decisions+%F0%9F%93%8A;Welcome+to+My+Digital+Lab+%F0%9F%94%AC" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Building+Intelligent+Systems;Training+Neural+Networks;Exploring+LLMs+%26+Transformers;Turning+Data+into+Decisions;Statistics+%2B+Code+%3D+Magic" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- PROFILE VIEWS + SOCIAL BADGES -->
+<!-- BADGES -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=a9rmx1990&style=for-the-badge&color=0D1117&labelColor=00D9FF&label=NEURAL+VISITORS" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=a9rmx1990&style=for-the-badge&color=0D1117&labelColor=00D9FF&label=VISITORS" alt="Profile Views"/>
   &nbsp;
-  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   &nbsp;
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white"/></a>
   &nbsp;
-  <a href="mailto:a9rmx1990@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:a9rmx1990@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 </div>
 
 ---
 
-<!-- ABOUT ME SECTION -->
-<img align="right" alt="AI Brain GIF" width="320" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXF2OTlmMjN2anh2YXZwZndzaHV6cW14bWJsZmlrb2ptc2xocXQwdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<!-- ABOUT ME -->
+<img align="right" alt="AI GIF" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ## `> whoami`
 
 ```python
-class AsmitRegmi:
-    def __init__(self):
-        self.role       = "ML Engineer & AI Researcher"
-        self.location   = "🌍 Earth (mostly online)"
-        self.languages  = ["Python", "SQL", "Bash"]
-        self.interests  = [
-            "Large Language Models",
-            "Deep Learning Architectures",
-            "Statistical Modeling",
-            "AI Systems Design"
-        ]
-        self.currently  = "Building the future, one tensor at a time 🔥"
-        self.fun_fact   = "I debug neural nets faster than I debug myself 🧠"
+# asmit_regmi.py
 
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together.")
+name     = "Asmit Regmi"
+focus    = ["Machine Learning", "Deep Learning", "Statistics", "LLMs"]
+stack    = ["Python", "PyTorch", "Scikit-Learn", "Pandas", "NumPy"]
+learning = ["Transformers", "RAG pipelines", "LLM fine-tuning"]
+status   = "open to opportunities"
 
-me = AsmitRegmi()
-me.say_hi()
+print(f"Hello, World!  —  {name}")
+# >> Hello, World!  —  Asmit Regmi
 ```
 
 <br clear="right"/>
 
 ---
 
-<!-- ANIMATED STATS SECTION -->
+<!-- GITHUB STATS -->
 ## `> system.stats`
 
 <div align="center">
@@ -73,48 +64,86 @@ me.say_hi()
 
 ---
 
-<!-- AI/ML KNOWLEDGE GRAPH -->
-## `> knowledge.graph`
-
-```
-                        ┌─────────────────────────────────────┐
-                        │         AI / ML EXPERTISE MAP        │
-                        └─────────────────────────────────────┘
-
-  🧠 DEEP LEARNING          🔤 NLP / LLMs              📊 DATA SCIENCE
-  ┌──────────────┐          ┌──────────────┐           ┌──────────────┐
-  │ Transformers │          │ GPT / BERT   │           │ EDA & Viz    │
-  │ CNNs / RNNs  │◄────────►│ Fine-tuning  │◄─────────►│ Feature Eng  │
-  │ Autoencoders │          │ RAG Systems  │           │ Stat Models  │
-  │ Diffusion    │          │ Prompt Eng   │           │ A/B Testing  │
-  └──────┬───────┘          └──────┬───────┘           └──────┬───────┘
-         │                         │                           │
-         └─────────────┬───────────┘                           │
-                       ▼                                       │
-               ┌───────────────┐                               │
-               │  ML PIPELINE  │◄──────────────────────────────┘
-               │  PyTorch Core │
-               │  Scikit-Learn │
-               │  Pandas/NumPy │
-               └───────────────┘
-```
-
----
-
-<!-- ANIMATED SKILL BARS -->
+<!-- SKILL PROFICIENCY -->
 ## `> skills.proficiency`
 
 <div align="center">
 
-| Skill | Proficiency | Level |
-|-------|------------|-------|
-| 🐍 **Python** | `████████████████████` 95% | `EXPERT` |
-| 🔥 **PyTorch** | `██████████████████░░` 88% | `ADVANCED` |
-| 🤖 **LLMs & Transformers** | `█████████████████░░░` 85% | `ADVANCED` |
-| 📊 **Statistical Modeling** | `████████████████░░░░` 80% | `ADVANCED` |
-| 🧪 **Scikit-Learn** | `████████████████████` 92% | `EXPERT` |
-| 🐼 **Pandas / NumPy** | `████████████████████` 95% | `EXPERT` |
-| 📈 **Data Visualization** | `███████████████░░░░░` 75% | `PROFICIENT` |
+| &nbsp;&nbsp;&nbsp;Skill&nbsp;&nbsp;&nbsp; | Proficiency Bar | Level |
+|:---:|:---|:---:|
+| 🐍 **Python** | `███████████████████░` 78% | ![Advanced](https://img.shields.io/badge/-ADVANCED-00D9FF?style=flat-square) |
+| 🔥 **PyTorch** | `█████████████░░░░░░░` 58% | ![Intermediate](https://img.shields.io/badge/-INTERMEDIATE-FFA500?style=flat-square) |
+| 🤖 **LLMs & Transformers** | `████████░░░░░░░░░░░░` 35% | ![Beginner](https://img.shields.io/badge/-BEGINNER-FF6B6B?style=flat-square) |
+| 📊 **Statistical Modeling** | `█████████████████░░░` 72% | ![Advanced](https://img.shields.io/badge/-ADVANCED-00D9FF?style=flat-square) |
+| 🧪 **Scikit-Learn** | `████████████████████` 82% | ![Advanced](https://img.shields.io/badge/-ADVANCED-00D9FF?style=flat-square) |
+| 🐼 **Pandas / NumPy** | `████████████████████` 85% | ![Advanced](https://img.shields.io/badge/-ADVANCED-00D9FF?style=flat-square) |
+| 📈 **Data Visualization** | `██████████████░░░░░░` 62% | ![Intermediate](https://img.shields.io/badge/-INTERMEDIATE-FFA500?style=flat-square) |
+
+</div>
+
+---
+
+<!-- KNOWLEDGE MAP — SVG VERSION -->
+## `> knowledge.map`
+
+<div align="center">
+
+```
+                    ╔══════════════════════════════╗
+                    ║    ML / AI  KNOWLEDGE  MAP    ║
+                    ╚══════════════════════════════╝
+
+         ┌──────────────────────────────────────────────┐
+         │                  PYTHON  🐍                   │
+         │         (The language everything runs on)     │
+         └────────────────────┬─────────────────────────┘
+                              │
+          ┌───────────────────┼───────────────────┐
+          ▼                   ▼                   ▼
+  ┌──────────────┐   ┌──────────────┐   ┌──────────────────┐
+  │  DATA  LAYER │   │  ML  LAYER   │   │   STATS  LAYER   │
+  │  ──────────  │   │  ──────────  │   │  ──────────────  │
+  │  Pandas      │   │  Scikit-Learn│   │  Probability     │
+  │  NumPy       │   │  PyTorch ◀── │   │  Distributions   │
+  │  Matplotlib  │   │  Neural Nets │   │  Hypothesis Test │
+  │  Seaborn     │   │  Optimizers  │   │  Regression      │
+  └──────┬───────┘   └──────┬───────┘   └────────┬─────────┘
+         │                  │                     │
+         └──────────────────▼─────────────────────┘
+                            │
+                   ┌────────▼────────┐
+                   │   LLM  LAYER    │   ← currently exploring
+                   │  ────────────   │
+                   │  Transformers   │
+                   │  Prompt Eng.    │
+                   │  RAG / Vectors  │
+                   │  HuggingFace 🤗 │
+                   └─────────────────┘
+```
+
+</div>
+
+---
+
+<!-- CONCEPTS LOADED -->
+## `> concepts.loaded`
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║               NEURAL KNOWLEDGE BASE — STATUS                 ║
+╠══════════════════════════════════════════════════════════════╣
+║  [✓] Gradient Descent & Backprop    [✓] Bayesian Statistics  ║
+║  [✓] Regularization (L1/L2/Drop)   [✓] Ensemble Methods     ║
+║  [✓] Feature Engineering           [✓] Cross-Validation      ║
+║  [~] Transformer Architecture       [~] Attention Mechanism  ║
+║  [~] RAG Pipelines                  [~] Prompt Engineering   ║
+║  [ ] Fine-tuning & RLHF             [ ] Vector Databases     ║
+╠══════════════════════════════════════════════════════════════╣
+║   [✓] solid   [~] learning   [ ] next on the list            ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
 </div>
 
@@ -125,32 +154,28 @@ me.say_hi()
 
 <div align="center">
 
-### 🧪 Core ML & AI
+### Core ML & AI
 <p>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=for-the-badge&logoColor=black"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 </p>
 
-### 📊 Data Engineering
+### Data Engineering
 <p>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
 </p>
 
-### 🛠️ Dev & Tools
+### Dev & Tools
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
@@ -158,31 +183,7 @@ me.say_hi()
 
 ---
 
-<!-- ML CONCEPTS ANIMATED -->
-## `> concepts.loaded`
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════╗
-║              LOADING NEURAL ARCHITECTURE...                  ║
-╠══════════════════════════════════════════════════════════════╣
-║  [✓] Attention Mechanisms         [✓] Gradient Descent       ║
-║  [✓] Transformer Architecture     [✓] Backpropagation        ║
-║  [✓] RAG (Retrieval-Aug-Gen)      [✓] Regularization         ║
-║  [✓] Fine-tuning & RLHF           [✓] Dimensionality Red.    ║
-║  [✓] Prompt Engineering           [✓] Bayesian Statistics     ║
-║  [✓] Vector Databases             [✓] Ensemble Methods       ║
-║  [✓] Embedding Spaces             [✓] Hyperparameter Tuning  ║
-╚══════════════════════════════════════════════════════════════╝
-         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  98.6% READY
-```
-
-</div>
-
----
-
-<!-- GITHUB ACTIVITY GRAPH -->
+<!-- ACTIVITY GRAPH -->
 ## `> activity.log`
 
 <div align="center">
@@ -191,48 +192,50 @@ me.say_hi()
 
 ---
 
-<!-- RANDOM DEV QUOTE -->
-## `> wisdom.random()`
+<!-- QUOTE -->
+## `> quote.print()`
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+
+```
+  ┌────────────────────────────────────────────────────┐
+  │                                                    │
+  │   " Hello, World! "                               │
+  │                                                    │
+  │                              — Asmit Regmi        │
+  └────────────────────────────────────────────────────┘
+```
+
 </div>
 
 ---
 
-<!-- CONNECT SECTION -->
+<!-- CONNECT -->
 ## `> connect --now`
 
 <div align="center">
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│  👋 Open to: ML Engineer • AI Researcher • Data Scientist   │
-│  💼 Internships • Full-time • Freelance • Collaborations    │
-│  📬 Let's build intelligent systems together!               │
+│  Open to: ML Engineer · Data Scientist · AI Research        │
+│  Available for: Internships · Full-time · Collaborations    │
 └─────────────────────────────────────────────────────────────┘
 ```
 
 <a href="https://www.linkedin.com/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect_Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
 <a href="#">
-  <img src="https://img.shields.io/badge/Portfolio-View_My_Work-FF5722?style=for-the-badge&logo=firefox&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portfolio-View_Work-FF5722?style=for-the-badge&logo=firefox&logoColor=white"/>
 </a>
 &nbsp;
 <a href="mailto:a9rmx1990@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Hire_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-Say_Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%"/>
 
-</div>
-
----
-
-<div align="center">
-  <sub>⚡ Crafted with neural precision by <b>Asmit Regmi</b> — where data meets destiny</sub>
 </div>
