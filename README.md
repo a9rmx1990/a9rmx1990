@@ -70,21 +70,27 @@ Outside engineering: competitive chess player and college **Chess Captain**.
 
 ---
 
-## 03 · Skill Matrix
+## 03 · Skills
 
 <div align="center">
 
-| Module | Progress | Level |
-|:---|:---|:---:|
-| 🐼 `pandas` · `numpy` | `████████████████████` 85% | ![](https://img.shields.io/badge/advanced-00FF41?style=flat-square&logoColor=black) |
-| 🧪 `scikit-learn` | `████████████████████` 82% | ![](https://img.shields.io/badge/advanced-00FF41?style=flat-square&logoColor=black) |
-| 🐍 `python` | `███████████████████░` 78% | ![](https://img.shields.io/badge/advanced-00FF41?style=flat-square&logoColor=black) |
-| 📊 `statistics` · `probability` | `█████████████████░░░` 72% | ![](https://img.shields.io/badge/advanced-00FF41?style=flat-square&logoColor=black) |
-| 📈 `matplotlib` · `seaborn` | `██████████████░░░░░░` 62% | ![](https://img.shields.io/badge/intermediate-FFB800?style=flat-square) |
-| 🔥 `pytorch` | `█████████████░░░░░░░` 58% | ![](https://img.shields.io/badge/intermediate-FFB800?style=flat-square) |
-| 🌐 `javascript` | `███████████░░░░░░░░░` 52% | ![](https://img.shields.io/badge/intermediate-FFB800?style=flat-square) |
-| 🛡️ `burp suite` | `█████████░░░░░░░░░░░` 40% | ![](https://img.shields.io/badge/intermediate-FFB800?style=flat-square) |
-| 🤖 `transformers` · `llms` | `████████░░░░░░░░░░░░` 35% | ![](https://img.shields.io/badge/learning-FF4444?style=flat-square) |
+![Python](https://img.shields.io/badge/-%F0%9F%90%8D%20Python-001a00?style=flat-square&logoColor=00FF41)
+![Pandas](https://img.shields.io/badge/-%F0%9F%90%BC%20Pandas-001a00?style=flat-square&logoColor=00FF41)
+![NumPy](https://img.shields.io/badge/-%F0%9F%94%A2%20NumPy-001a00?style=flat-square&logoColor=00FF41)
+![Scikit Learn](https://img.shields.io/badge/-%F0%9F%A7%AA%20Scikit--Learn-001a00?style=flat-square&logoColor=00FF41)
+![Statistics](https://img.shields.io/badge/-%F0%9F%93%8A%20Statistics-001a00?style=flat-square&logoColor=00FF41)
+![Probability](https://img.shields.io/badge/-%F0%9F%8E%B2%20Probability-001a00?style=flat-square&logoColor=00FF41)
+
+![PyTorch](https://img.shields.io/badge/-%F0%9F%94%A5%20PyTorch-1a0800?style=flat-square&logoColor=FFB800)
+![Matplotlib](https://img.shields.io/badge/-%F0%9F%93%88%20Matplotlib-1a0800?style=flat-square&logoColor=FFB800)
+![Seaborn](https://img.shields.io/badge/-%F0%9F%8C%8A%20Seaborn-1a0800?style=flat-square&logoColor=FFB800)
+![JavaScript](https://img.shields.io/badge/-%F0%9F%8C%90%20JavaScript-1a0800?style=flat-square&logoColor=FFB800)
+![Burp Suite](https://img.shields.io/badge/-%F0%9F%9B%A1%EF%B8%8F%20Burp%20Suite-1a0800?style=flat-square&logoColor=FFB800)
+
+![Transformers](https://img.shields.io/badge/-%F0%9F%A4%96%20Transformers-0a0a1a?style=flat-square&logoColor=FF4444)
+![LLMs](https://img.shields.io/badge/-%E2%9A%A1%20LLMs-0a0a1a?style=flat-square&logoColor=FF4444)
+![RAG](https://img.shields.io/badge/-%F0%9F%94%AD%20RAG%20Pipelines-0a0a1a?style=flat-square&logoColor=FF4444)
+![HuggingFace](https://img.shields.io/badge/-%F0%9F%A4%97%20HuggingFace-0a0a1a?style=flat-square&logoColor=FF4444)
 
 </div>
 
