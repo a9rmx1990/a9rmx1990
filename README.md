@@ -6,7 +6,7 @@
 <br/>
 
 <!-- TYPING ANIMATION — external SVG service, always renders -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=00FF41&center=true&vCenter=true&random=false&width=580&lines=Building+Intelligent+Systems;Training+Neural+Networks;Exploring+LLMs+%26+Transformers;Statistics+%2B+Code+%3D+Insight;Hello%2C+World!+%E2%80%94+Asmit+Regmi" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=00FF41&center=true&vCenter=true&random=false&width=580&lines=Building+Intelligent+Systems;Training+Neural+Networks;Exploring+LLMs+%26+Transformers;Mathematics+%2B+Code+%3D+Insight;Proofs+%E2%86%92+Models+%E2%86%92+Systems;Hello%2C+World!+%E2%80%94+Asmit+Regmi" alt="Typing SVG"/>
 
 <br/><br/>
 
@@ -31,7 +31,7 @@
 
 ```
 [SYS]  Initializing profile...
-[OK ]  Core modules loaded: Python · ML · Stats · Deep Learning
+[OK ]  Core modules loaded: Python · ML · Stats · Deep Learning · Pure Mathematics
 [OK ]  Status: open to opportunities
 [RUN]  Hello, World!  —  Asmit Regmi
 ```
@@ -42,12 +42,15 @@
 
 <img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-Computer Science Engineering student focused on **Machine Learning**, **Deep Learning**, and **Computer Vision**. I study model mechanics from the ground up — writing neural networks from scratch, understanding statistical inference, and exploring modern transformer architectures.
+Computer Science Engineering student focused on **Machine Learning**, **Deep Learning**, and **Computer Vision** — grounded in a genuine passion for **mathematics**. I study model mechanics from the ground up: proving things by hand before trusting a library, writing neural networks from scratch, understanding statistical inference, and exploring modern transformer architectures.
+
+I spend a lot of free time working through **proof-based mathematics** — currently going through *Book of Proofs* (Hammack) — alongside linear algebra, real analysis, and calculus, because I'd rather understand *why* an algorithm works than just call `.fit()`.
 
 Outside engineering: competitive chess player and college **Chess Captain**.
 
 - **Exploring:** Transformer attention · Vector embeddings · RAG pipelines
-- **Foundation:** Mathematical analysis · Statistical inference · Logical optimisation
+- **Foundation:** Mathematical proof & logic · Linear algebra · Calculus · Statistical inference · Optimisation theory
+- **Currently reading:** *Book of Proofs* — Richard Hammack
 - **Achievement:** Winner — *All India Esport Chess Championship* 🏆
 
 <br clear="right"/>
@@ -70,7 +73,29 @@ Outside engineering: competitive chess player and college **Chess Captain**.
 
 ---
 
-## 03 · Skills
+## 03 · Mathematical Foundations
+
+<div align="center">
+
+![Proofs](https://img.shields.io/badge/-%E2%88%B4%20Mathematical%20Proofs-0d1a0d?style=flat-square&logoColor=00FF41)
+![Book of Proofs](https://img.shields.io/badge/-%F0%9F%93%98%20Book%20of%20Proofs-0d1a0d?style=flat-square&logoColor=00FF41)
+![Set Theory](https://img.shields.io/badge/-%F0%9F%94%A0%20Set%20Theory-0d1a0d?style=flat-square&logoColor=00FF41)
+![Logic](https://img.shields.io/badge/-%E2%9A%A1%20Mathematical%20Logic-0d1a0d?style=flat-square&logoColor=00FF41)
+
+![Linear Algebra](https://img.shields.io/badge/-%F0%9F%A7%AE%20Linear%20Algebra-0d0d1a?style=flat-square&logoColor=6699FF)
+![Calculus](https://img.shields.io/badge/-%E2%88%AB%20Calculus-0d0d1a?style=flat-square&logoColor=6699FF)
+![Real Analysis](https://img.shields.io/badge/-%F0%9F%93%90%20Real%20Analysis-0d0d1a?style=flat-square&logoColor=6699FF)
+![Probability](https://img.shields.io/badge/-%F0%9F%8E%B2%20Probability-0d0d1a?style=flat-square&logoColor=6699FF)
+![Statistics](https://img.shields.io/badge/-%F0%9F%93%8A%20Statistics-0d0d1a?style=flat-square&logoColor=6699FF)
+![Optimisation](https://img.shields.io/badge/-%F0%9F%93%89%20Optimisation-0d0d1a?style=flat-square&logoColor=6699FF)
+
+</div>
+
+> *Math isn't a prerequisite I got past — it's the part of ML I enjoy most. Every model in `04 · Knowledge Graph` below traces back to a proof, a matrix, or a derivative up here.*
+
+---
+
+## 04 · Skills
 
 <div align="center">
 
@@ -96,15 +121,33 @@ Outside engineering: competitive chess player and college **Chess Captain**.
 
 ---
 
-## 04 · Knowledge Graph
+## 05 · Knowledge Graph
 
 ```mermaid
 flowchart TD
+    M["📐 Mathematics"]
+
+    M --> LOG["∴ Logic & Proofs"]
+    M --> LA["🧮 Linear Algebra"]
+    M --> CA["∫ Calculus"]
+    M --> ST["📊 Statistics & Probability"]
+
+    LOG --> bop["Book of Proofs"]
+    LOG --> set["set theory · induction"]
+
+    LA --> vec["vectors · matrices · eigenvalues"]
+    CA --> der["derivatives · gradients · limits"]
+    ST --> pr["distributions · hypothesis testing"]
+    ST --> rg["regression analysis"]
+
     P["🐍 Python"]
 
+    LA -.->|powers| ML["⚡ ML / Deep Learning"]
+    CA -.->|powers| ML
+    ST -.->|powers| ML
+
     P --> DE["📦 Data Engineering"]
-    P --> ML["⚡ ML / Deep Learning"]
-    P --> ST["📊 Math & Statistics"]
+    P --> ML
 
     DE --> pd["pandas · numpy"]
     DE --> vz["matplotlib · seaborn"]
@@ -112,10 +155,6 @@ flowchart TD
     ML --> pt["pytorch"]
     ML --> sk["scikit-learn"]
     ML --> nn["neural nets from scratch"]
-
-    ST --> pr["probability · distributions"]
-    ST --> hy["hypothesis testing"]
-    ST --> rg["regression analysis"]
 
     ML -.->|exploring| NLP["🔭 NLP / LLMs"]
     ST -.->|exploring| NLP
@@ -130,18 +169,20 @@ flowchart TD
 
 ---
 
-## 05 · Status Log
+## 06 · Status Log
 
 ```
 ╔════════════════════════════════════════════════════════════════╗
 ║                  KNOWLEDGE BASE · STATUS                       ║
 ╠════════════════════════════════════════════════════════════════╣
-║  [✓] gradient descent & backprop    [✓] bayesian statistics   ║
-║  [✓] regularisation (L1 / L2 / DO)  [✓] ensemble methods      ║
-║  [✓] feature engineering            [✓] cross-validation       ║
-║  [~] transformer architecture       [~] attention mechanisms   ║
-║  [~] RAG pipelines                  [~] prompt engineering     ║
-║  [ ] fine-tuning & RLHF             [ ] vector databases       ║
+║  [✓] proofs & mathematical logic   [✓] linear algebra          ║
+║  [✓] differential & integral calc  [✓] bayesian statistics     ║
+║  [✓] gradient descent & backprop   [✓] ensemble methods         ║
+║  [✓] regularisation (L1 / L2 / DO) [✓] cross-validation         ║
+║  [~] real analysis                 [~] transformer architecture ║
+║  [~] attention mechanisms          [~] RAG pipelines            ║
+║  [~] prompt engineering            [ ] fine-tuning & RLHF       ║
+║  [ ] vector databases                                           ║
 ╠════════════════════════════════════════════════════════════════╣
 ║   [✓] operational   [~] loading   [ ] queued                   ║
 ╚════════════════════════════════════════════════════════════════╝
@@ -149,9 +190,18 @@ flowchart TD
 
 ---
 
-## 06 · Stack
+## 07 · Stack
 
 <div align="center">
+
+**Mathematics**
+
+<img src="https://img.shields.io/badge/Linear_Algebra-4B0082?style=for-the-badge&logo=matrix&logoColor=white"/>
+<img src="https://img.shields.io/badge/Calculus-1E90FF?style=for-the-badge&logo=wolfram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Statistics-2E8B57?style=for-the-badge&logo=numbers&logoColor=white"/>
+<img src="https://img.shields.io/badge/Proofs_%26_Logic-8B0000?style=for-the-badge&logo=coq&logoColor=white"/>
+
+<br/>
 
 **ML & AI**
 
@@ -184,7 +234,7 @@ flowchart TD
 
 ---
 
-## 07 · Activity
+## 08 · Activity
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=a9rmx1990&bg_color=0D1117&color=00FF41&line=00FF41&point=00FF41&area=true&area_color=003300&hide_border=true" width="100%"/>
@@ -192,7 +242,7 @@ flowchart TD
 
 ---
 
-## 08 · Connect
+## 09 · Connect
 
 <div align="center">
 
