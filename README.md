@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER — black terminal bar via capsule-render -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0,0,0,255&height=110&text=ASMIT%20REGMI&fontColor=00FF41&fontSize=36&fontAlignY=42&desc=ML%20Engineer%20%2F%20Data%20Scientist%20%2F%20AI%20Researcher&descFontColor=555555&descFontSize=12&descAlignY=68&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0,0,0,255&height=110&text=ASMIT%20REGMI&fontColor=00FF41&fontSize=36&fontAlignY=42&desc=ML%20Engineer%20%2F%20Data%20Scientist%20%2F%20AI%20Researcher&descFontColor=555555&descFontSize=12&descAlignY=68&animation=fadeIn" width="100%"/>.
 
 <br/>
 
