@@ -1,12 +1,12 @@
 <div align="center">
 
-<!-- HEADER — black terminal bar via capsule-render -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0,0,0,255&height=110&text=ASMIT%20REGMI&fontColor=00FF41&fontSize=36&fontAlignY=42&desc=ML%20Engineer%20%2F%20Data%20Scientist%20%2F%20AI%20Researcher&descFontColor=555555&descFontSize=12&descAlignY=68&animation=fadeIn" width="100%"/>
+<!-- HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0,0,0,255&height=110&text=ASMIT%20REGMI&fontColor=00FF41&fontSize=36&fontAlignY=42&desc=AI%20Engineer%20%2F%20LLM%20Systems%20%2F%20Backend%20Infrastructure&descFontColor=555555&descFontSize=12&descAlignY=68&animation=fadeIn" width="100%"/>
 
 <br/>
 
-<!-- TYPING ANIMATION — external SVG service, always renders -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=00FF41&center=true&vCenter=true&random=false&width=580&lines=Building+Intelligent+Systems;Training+Neural+Networks;Exploring+LLMs+%26+Transformers;Mathematics+%2B+Code+%3D+Insight;Proofs+%E2%86%92+Models+%E2%86%92+Systems;Hello%2C+World!+%E2%80%94+Asmit+Regmi" alt="Typing SVG"/>
+<!-- TYPING ANIMATION -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=00FF41&center=true&vCenter=true&random=false&width=620&lines=Building+Production+AI+Systems;LLMs+%2B+RAG+%2B+Vector+Databases;Distributed+Backends+in+Go;Containerised+%26+Cloud-Native+Pipelines;From+Prompt+to+Production;Hello%2C+World!+%E2%80%94+Asmit+Regmi" alt="Typing SVG"/>
 
 <br/><br/>
 
@@ -31,7 +31,7 @@
 
 ```
 [SYS]  Initializing profile...
-[OK ]  Core modules loaded: Python · ML · Stats · Deep Learning · Pure Mathematics
+[OK ]  Core modules loaded: Python · Go · LLMs · RAG · Vector DBs · Docker
 [OK ]  Status: open to opportunities
 [RUN]  Hello, World!  —  Asmit Regmi
 ```
@@ -42,15 +42,15 @@
 
 <img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-Computer Science Engineering student focused on **Machine Learning**, **Deep Learning**, and **Computer Vision** — grounded in a genuine passion for **mathematics**. I study model mechanics from the ground up: proving things by hand before trusting a library, writing neural networks from scratch, understanding statistical inference, and exploring modern transformer architectures.
+Computer Science Engineering student focused on **AI Engineering**, **LLM Systems**, and **production-grade ML pipelines** — with a growing interest in the infrastructure that makes intelligent systems actually ship. I build end-to-end: from prompt design and retrieval architecture all the way to containerised, distributed backends.
 
-I spend a lot of free time working through **proof-based mathematics** — currently going through *Book of Proofs* (Hammack) — alongside linear algebra, real analysis, and calculus, because I'd rather understand *why* an algorithm works than just call `.fit()`.
+I'm drawn to the full stack of AI delivery — not just training models, but getting them into reliable, scalable systems. That means **RAG pipelines**, **vector search**, **Go-powered microservices**, and **Docker-first deployments** that don't break under load.
 
 Outside engineering: competitive chess player and college **Chess Captain**.
 
-- **Exploring:** Transformer attention · Vector embeddings · RAG pipelines
-- **Foundation:** Mathematical proof & logic · Linear algebra · Calculus · Statistical inference · Optimisation theory
-- **Currently reading:** *Book of Proofs* — Richard Hammack
+- **Building:** RAG pipelines · Agentic LLM workflows · Vector search systems
+- **Infra:** Distributed services in Go · Docker & container orchestration
+- **Exploring:** Fine-tuning · RLHF · Prompt engineering at scale
 - **Achievement:** Winner — *All India Esport Chess Championship* 🏆
 
 <br clear="right"/>
@@ -73,116 +73,85 @@ Outside engineering: competitive chess player and college **Chess Captain**.
 
 ---
 
-## 03 · Mathematical Foundations
+## 03 · AI Engineering Stack
 
 <div align="center">
 
-![Proofs](https://img.shields.io/badge/-%E2%88%B4%20Mathematical%20Proofs-0d1a0d?style=flat-square&logoColor=00FF41)
-![Book of Proofs](https://img.shields.io/badge/-%F0%9F%93%98%20Book%20of%20Proofs-0d1a0d?style=flat-square&logoColor=00FF41)
-![Set Theory](https://img.shields.io/badge/-%F0%9F%94%A0%20Set%20Theory-0d1a0d?style=flat-square&logoColor=00FF41)
-![Logic](https://img.shields.io/badge/-%E2%9A%A1%20Mathematical%20Logic-0d1a0d?style=flat-square&logoColor=00FF41)
+![LLMs](https://img.shields.io/badge/-%E2%9A%A1%20Large%20Language%20Models-0a0a1a?style=flat-square&logoColor=FF4444)
+![RAG](https://img.shields.io/badge/-%F0%9F%94%AD%20RAG%20Pipelines-0a0a1a?style=flat-square&logoColor=FF4444)
+![Vector DBs](https://img.shields.io/badge/-%F0%9F%97%84%EF%B8%8F%20Vector%20Databases-0a0a1a?style=flat-square&logoColor=FF4444)
+![HuggingFace](https://img.shields.io/badge/-%F0%9F%A4%97%20HuggingFace-0a0a1a?style=flat-square&logoColor=FF4444)
+![Transformers](https://img.shields.io/badge/-%F0%9F%A4%96%20Transformers-0a0a1a?style=flat-square&logoColor=FF4444)
+![Embeddings](https://img.shields.io/badge/-%F0%9F%94%A2%20Embeddings-0a0a1a?style=flat-square&logoColor=FF4444)
 
-![Linear Algebra](https://img.shields.io/badge/-%F0%9F%A7%AE%20Linear%20Algebra-0d0d1a?style=flat-square&logoColor=6699FF)
-![Calculus](https://img.shields.io/badge/-%E2%88%AB%20Calculus-0d0d1a?style=flat-square&logoColor=6699FF)
-![Real Analysis](https://img.shields.io/badge/-%F0%9F%93%90%20Real%20Analysis-0d0d1a?style=flat-square&logoColor=6699FF)
-![Probability](https://img.shields.io/badge/-%F0%9F%8E%B2%20Probability-0d0d1a?style=flat-square&logoColor=6699FF)
-![Statistics](https://img.shields.io/badge/-%F0%9F%93%8A%20Statistics-0d0d1a?style=flat-square&logoColor=6699FF)
-![Optimisation](https://img.shields.io/badge/-%F0%9F%93%89%20Optimisation-0d0d1a?style=flat-square&logoColor=6699FF)
-
-</div>
-
-> *Math isn't a prerequisite I got past — it's the part of ML I enjoy most. Every model in `04 · Knowledge Graph` below traces back to a proof, a matrix, or a derivative up here.*
-
----
-
-## 04 · Skills
-
-<div align="center">
+![Go](https://img.shields.io/badge/-%F0%9F%90%B9%20Golang-0a1a0a?style=flat-square&logoColor=00FF41)
+![Docker](https://img.shields.io/badge/-%F0%9F%90%B3%20Docker-0a1a0a?style=flat-square&logoColor=00FF41)
+![Microservices](https://img.shields.io/badge/-%F0%9F%94%97%20Microservices-0a1a0a?style=flat-square&logoColor=00FF41)
+![REST APIs](https://img.shields.io/badge/-%F0%9F%8C%90%20REST%20APIs-0a1a0a?style=flat-square&logoColor=00FF41)
 
 ![Python](https://img.shields.io/badge/-%F0%9F%90%8D%20Python-001a00?style=flat-square&logoColor=00FF41)
+![PyTorch](https://img.shields.io/badge/-%F0%9F%94%A5%20PyTorch-001a00?style=flat-square&logoColor=00FF41)
+![Scikit Learn](https://img.shields.io/badge/-%F0%9F%A7%AA%20Scikit--Learn-001a00?style=flat-square&logoColor=00FF41)
 ![Pandas](https://img.shields.io/badge/-%F0%9F%90%BC%20Pandas-001a00?style=flat-square&logoColor=00FF41)
 ![NumPy](https://img.shields.io/badge/-%F0%9F%94%A2%20NumPy-001a00?style=flat-square&logoColor=00FF41)
-![Scikit Learn](https://img.shields.io/badge/-%F0%9F%A7%AA%20Scikit--Learn-001a00?style=flat-square&logoColor=00FF41)
-![Statistics](https://img.shields.io/badge/-%F0%9F%93%8A%20Statistics-001a00?style=flat-square&logoColor=00FF41)
-![Probability](https://img.shields.io/badge/-%F0%9F%8E%B2%20Probability-001a00?style=flat-square&logoColor=00FF41)
-
-![PyTorch](https://img.shields.io/badge/-%F0%9F%94%A5%20PyTorch-1a0800?style=flat-square&logoColor=FFB800)
-![Matplotlib](https://img.shields.io/badge/-%F0%9F%93%88%20Matplotlib-1a0800?style=flat-square&logoColor=FFB800)
-![Seaborn](https://img.shields.io/badge/-%F0%9F%8C%8A%20Seaborn-1a0800?style=flat-square&logoColor=FFB800)
-![JavaScript](https://img.shields.io/badge/-%F0%9F%8C%90%20JavaScript-1a0800?style=flat-square&logoColor=FFB800)
-![Burp Suite](https://img.shields.io/badge/-%F0%9F%9B%A1%EF%B8%8F%20Burp%20Suite-1a0800?style=flat-square&logoColor=FFB800)
-
-![Transformers](https://img.shields.io/badge/-%F0%9F%A4%96%20Transformers-0a0a1a?style=flat-square&logoColor=FF4444)
-![LLMs](https://img.shields.io/badge/-%E2%9A%A1%20LLMs-0a0a1a?style=flat-square&logoColor=FF4444)
-![RAG](https://img.shields.io/badge/-%F0%9F%94%AD%20RAG%20Pipelines-0a0a1a?style=flat-square&logoColor=FF4444)
-![HuggingFace](https://img.shields.io/badge/-%F0%9F%A4%97%20HuggingFace-0a0a1a?style=flat-square&logoColor=FF4444)
 
 </div>
 
+> *AI systems that don't ship aren't AI systems — they're research. I care about the full delivery path: retrieval, inference, serving, and scale.*
+
 ---
 
-## 05 · Knowledge Graph
+## 04 · Architecture Map
 
 ```mermaid
 flowchart TD
-    M["📐 Mathematics"]
+    U["👤 User / Client"]
 
-    M --> LOG["∴ Logic & Proofs"]
-    M --> LA["🧮 Linear Algebra"]
-    M --> CA["∫ Calculus"]
-    M --> ST["📊 Statistics & Probability"]
+    U -->|query| GW["🐹 Go Gateway\nAPI & Routing"]
 
-    LOG --> bop["Book of Proofs"]
-    LOG --> set["set theory · induction"]
+    GW --> AGT["🤖 Agent Orchestrator\nLangChain / Custom"]
 
-    LA --> vec["vectors · matrices · eigenvalues"]
-    CA --> der["derivatives · gradients · limits"]
-    ST --> pr["distributions · hypothesis testing"]
-    ST --> rg["regression analysis"]
+    AGT --> RAG["🔭 RAG Pipeline"]
+    AGT --> LLM["⚡ LLM Inference\nOpenAI · HuggingFace · Local"]
 
-    P["🐍 Python"]
+    RAG --> EMB["🔢 Embedding Model"]
+    RAG --> VDB["🗄️ Vector Database\nPinecone · Weaviate · pgvector"]
+    RAG --> RET["📄 Retrieved Chunks"]
 
-    LA -.->|powers| ML["⚡ ML / Deep Learning"]
-    CA -.->|powers| ML
-    ST -.->|powers| ML
+    RET --> LLM
+    LLM -->|response| GW
 
-    P --> DE["📦 Data Engineering"]
-    P --> ML
+    GW -->|logs & traces| OBS["📊 Observability"]
 
-    DE --> pd["pandas · numpy"]
-    DE --> vz["matplotlib · seaborn"]
+    GW -->|async tasks| Q["📬 Message Queue\nRabbitMQ / Kafka"]
+    Q --> WRK["⚙️ Go Workers\nBackground Processing"]
 
-    ML --> pt["pytorch"]
-    ML --> sk["scikit-learn"]
-    ML --> nn["neural nets from scratch"]
+    WRK --> DB["🛢️ Persistent Store\nPostgres / Redis"]
+    WRK --> FS["📦 Object Storage"]
 
-    ML -.->|exploring| NLP["🔭 NLP / LLMs"]
-    ST -.->|exploring| NLP
-
-    NLP -.-> tr["transformers · attention"]
-    NLP -.-> rag["RAG pipelines"]
-    NLP -.-> hf["HuggingFace 🤗"]
-
-    JS["🌐 JavaScript"]
-    BS["🛡️ Burp Suite"]
+    ALL["🐳 Docker / Compose\nContainer Orchestration"] -.->|wraps| GW
+    ALL -.->|wraps| WRK
+    ALL -.->|wraps| VDB
+    ALL -.->|wraps| DB
 ```
 
 ---
 
-## 06 · Status Log
+## 05 · Status Log
 
 ```
 ╔════════════════════════════════════════════════════════════════╗
 ║                  KNOWLEDGE BASE · STATUS                       ║
 ╠════════════════════════════════════════════════════════════════╣
-║  [✓] proofs & mathematical logic   [✓] linear algebra          ║
-║  [✓] differential & integral calc  [✓] bayesian statistics     ║
-║  [✓] gradient descent & backprop   [✓] ensemble methods         ║
-║  [✓] regularisation (L1 / L2 / DO) [✓] cross-validation         ║
-║  [~] real analysis                 [~] transformer architecture ║
-║  [~] attention mechanisms          [~] RAG pipelines            ║
-║  [~] prompt engineering            [ ] fine-tuning & RLHF       ║
-║  [ ] vector databases                                           ║
+║  [✓] LLM fundamentals & APIs      [✓] RAG architecture         ║
+║  [✓] vector embeddings             [✓] semantic search          ║
+║  [✓] transformer attention         [✓] HuggingFace ecosystem    ║
+║  [✓] Docker & containerisation     [✓] Go microservices         ║
+║  [✓] REST API design               [✓] Python ML pipelines      ║
+║  [~] agentic frameworks            [~] vector DB optimisation   ║
+║  [~] fine-tuning & RLHF            [~] distributed tracing      ║
+║  [~] prompt engineering at scale   [ ] Kubernetes / k8s         ║
+║  [ ] multi-modal models            [ ] model serving (vLLM/TGI) ║
 ╠════════════════════════════════════════════════════════════════╣
 ║   [✓] operational   [~] loading   [ ] queued                   ║
 ╚════════════════════════════════════════════════════════════════╝
@@ -190,51 +159,54 @@ flowchart TD
 
 ---
 
-## 07 · Stack
+## 06 · Skills
 
 <div align="center">
 
-**Mathematics**
+**LLM & AI Engineering**
 
-<img src="https://img.shields.io/badge/Linear_Algebra-4B0082?style=for-the-badge&logo=matrix&logoColor=white"/>
-<img src="https://img.shields.io/badge/Calculus-1E90FF?style=for-the-badge&logo=wolfram&logoColor=white"/>
-<img src="https://img.shields.io/badge/Statistics-2E8B57?style=for-the-badge&logo=numbers&logoColor=white"/>
-<img src="https://img.shields.io/badge/Proofs_%26_Logic-8B0000?style=for-the-badge&logo=coq&logoColor=white"/>
+<img src="https://img.shields.io/badge/LLMs-000000?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG_Pipelines-FF4444?style=for-the-badge&logo=elasticsearch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vector_Databases-6B46C1?style=for-the-badge&logo=pinecone&logoColor=white"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white"/>
 
 <br/>
 
-**ML & AI**
+**ML & Data**
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-
-<br/>
-
-**Data**
-
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
 <br/>
 
-**Dev & Security**
+**Backend & Infrastructure**
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+
+<br/>
+
+**Dev & Tooling**
+
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
 
 </div>
 
 ---
 
-## 08 · Activity
+## 07 · Activity
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=a9rmx1990&bg_color=0D1117&color=00FF41&line=00FF41&point=00FF41&area=true&area_color=003300&hide_border=true" width="100%"/>
@@ -242,12 +214,12 @@ flowchart TD
 
 ---
 
-## 09 · Connect
+## 08 · Connect
 
 <div align="center">
 
 ```
-  roles  ──  ML engineer · data scientist · AI research
+  roles  ──  AI engineer · backend · LLM systems · research
   open   ──  internship · full-time · collaboration
 ```
 
